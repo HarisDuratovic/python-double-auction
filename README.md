@@ -1,2 +1,2 @@
 # python-double-auction
-Python practice (full stack API) by making a double auction program
+Python practice by making a double auction program - mainly testing and for fun
